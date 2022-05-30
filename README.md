@@ -4,8 +4,8 @@ ESP32 HTTPClient on Wokwi arduino simulator to Laravel live charts
 
 ![Screenshot 2022-05-31 003735](https://user-images.githubusercontent.com/26139678/171033167-b4388c1e-3a17-402d-9b74-81c325050ec7.png)
 (data sent from esp32 refreshes once persecond)
-the wokwi project of this project : https://wokwi.com/projects/333014702461289043
-the live charts of this project : https://dcanteen.com/viewchart
+- the wokwi project of this project : https://wokwi.com/projects/333014702461289043
+- the live charts of this project : https://dcanteen.com/viewchart
 - - - - -
 ## How to create
 - Create esp32 project simulation on wokwi
