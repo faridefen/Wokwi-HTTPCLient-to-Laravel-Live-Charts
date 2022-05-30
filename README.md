@@ -7,7 +7,7 @@ ESP32 HTTPClient on Wokwi arduino simulator to Laravel live charts
 - Create esp32 project simulation on wokwi
 - Wifi connections and HTTPClient example on https://wokwi.com/projects/323674232341922386
 - Live charts example on https://github.com/LaravelDaily/Laravel-Charts-Live-Demo
-- change the http.begin("YOUR API URL");
+- change the http.begin("YOUR URL");
 - ![image](https://user-images.githubusercontent.com/26139678/171034931-ef7696fc-27b5-4d46-9f22-bb710714c08e.png)
 (saving data sent from esp32 to database)
 - ![image](https://user-images.githubusercontent.com/26139678/171034630-df2686e8-808e-4d75-9340-6a91182b24b2.png)
